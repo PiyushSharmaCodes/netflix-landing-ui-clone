@@ -311,7 +311,7 @@ footer{
    color: rgba(255, 255, 255, 0.7);
     max-width: 78vw;
     margin: auto;
-    padding: 4.5rem 0px;
+    padding: 4.5rem 0rem 4.5rem 3.5rem;
 }
 .links{
     list-style: none;
